@@ -1,0 +1,9 @@
+{
+  "rescue_id": "REPT-931-TN",
+  "facility_status": "Operational",
+  "temp_control": "Enabled",
+  "active_cases": [
+    {"name": "Shelly", "species": "Box Turtle", "admitted": "2026-03-15"},
+    {"name": "Tank", "species": "Snapping Turtle", "admitted": "2026-04-02"}
+  ]
+}
